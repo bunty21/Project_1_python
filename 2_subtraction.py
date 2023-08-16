@@ -5,7 +5,7 @@ CD = int(input("Enter the third number: "))
 # Calculate the subtraction
 subtraction_result = AB - BC - CD 
 
-# Display the result
+
 print("The subtraction of", AB, "and", BC, CD, "is:", subtraction_result)
 
-print("CODE BYE NITESH")
+print("CODE BYE NITESH & Hemant")
